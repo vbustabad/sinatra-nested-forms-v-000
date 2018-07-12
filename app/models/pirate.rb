@@ -16,7 +16,7 @@ class Pirate
   end
 
   def self.clear
-    self.delete
+    self.destroy
   end
 
 end
